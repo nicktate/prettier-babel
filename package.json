@@ -1,5 +1,5 @@
 {
-  "name": "prettier-babel",
+  "name": "@containership/prettier-babel",
   "version": "1.0.0",
   "description": "Shared Prettier config by Containership.",
   "main": "index.json",
