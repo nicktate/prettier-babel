@@ -1,25 +1,17 @@
-# prettier-configs
-Shared [prettier](https://prettier.io) configurations for Containership.
+# prettier-babel
+Shared [prettier](https://prettier.io) configuration for Containership.
 
 ## Usage
 
 **Install**
 ```js
-yarn add --dev @containership/prettier-configs
+yarn add --dev @containership/prettier-babel
 ```
 
 **Add to `package.json`**
 ```jsonc
 {
   // ...existing package.json
-  "prettier": "@containership/prettier-configs/<parser type>"
-}
-```
-
-**Example `package.json` usage for Babel**
-```jsonc
-{
-  // ...existing package.json
-  "prettier": "@containership/prettier-configs/babel"
+  "prettier": "@containership/prettier-babel"
 }
 ```

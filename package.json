@@ -1,0 +1,9 @@
+{
+  "name": "prettier-babel",
+  "version": "1.0.0",
+  "description": "Shared Prettier config by Containership.",
+  "main": "index.json",
+  "repository": "https://github.com/containership/prettier-babel",
+  "author": "Containership <developers@containership.io>",
+  "license": "MIT"
+}
